@@ -1,0 +1,46 @@
+table{background-color: #FF8000; color: #fff; margin: 0 auto; width: 700px; border: 2px solid #000; }
+th{color: #000; text-align: center; }
+td{border: 1px solid #000;}
+h1{text-align: center; color: #ff8000}
+p{text-align: justify;}
+body{background-color: #fff; background-image:  url(../imagenes/fondo.jpg ); background-attachment: fixed;}
+label{color: #fff}
+.img{text-align: center;}
+.ancla{color: #ff8000;}
+#container {margin: 0% 10% 2% 10%}
+.naranja{text-align: left; color:#FF8000}
+#formulario{background-image: url(../imagenes/fondo3.jpg ); width: 40%; 
+margin: 0 auto;
+padding: 30px;}
+#formulario2{background-image: url(../imagenes/fondo4.jpg ); width: 40%; 
+margin: 0 auto;
+padding: 30px;}
+#fpierna{background-image: url(../imagenes/fondo2.jpg ); width: 40%; 
+margin: 0 auto;
+padding: 30px;}
+#ftriceps{background-image: url(../imagenes/fondo5.jpg ); width: 40%; 
+margin: 0 auto;
+padding: 30px;}
+#fbiceps{background-image: url(../imagenes/fondo6.jpg ); width: 40%; 
+margin: 0 auto;
+padding: 30px;}
+#fhombro{background-image: url(../imagenes/fondo7.jpg ); width: 40%; 
+margin: 0 auto;
+padding: 30px;}
+#fpectoral{background-image: url(../imagenes/fondo8.jpg ); width: 40%; 
+margin: 0 auto;
+padding: 30px;}
+#fespalda{background-image: url(../imagenes/fondo9.jpg ); width: 40%; 
+margin: 0 auto;
+padding: 30px;}
+#ford{background-image: url(../imagenes/formulario.jpg ); width: 40%; 
+margin: 0 auto;
+padding: 30px;}
+#iframe-header{width: 100%;
+border: 0;
+margin: 0;
+height: 100px;
+}
+.label-pierna{width: 200px;
+display: inline-block;
+}
